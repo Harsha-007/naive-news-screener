@@ -1,0 +1,5 @@
+{
+  "name": "SentimenTrade AI",
+  "description": "An AI-powered stock screener that analyzes real-time news and social sentiment to provide actionable Buy/Sell signals across global markets.",
+  "requestFramePermissions": []
+}
